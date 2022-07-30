@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/LeoGast/.dotnet/store/|arch|/|tfm|",
+      "/Users/LeoGast/.nuget/packages"
+    ]
+  }
+}

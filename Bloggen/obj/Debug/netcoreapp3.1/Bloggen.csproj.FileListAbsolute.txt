@@ -1,0 +1,27 @@
+/Users/leogast/Projects/Bloggen/Bloggen/bin/Debug/netcoreapp3.1/Bloggen.deps.json
+/Users/leogast/Projects/Bloggen/Bloggen/bin/Debug/netcoreapp3.1/Bloggen.runtimeconfig.json
+/Users/leogast/Projects/Bloggen/Bloggen/bin/Debug/netcoreapp3.1/Bloggen.runtimeconfig.dev.json
+/Users/leogast/Projects/Bloggen/Bloggen/bin/Debug/netcoreapp3.1/Bloggen.dll
+/Users/leogast/Projects/Bloggen/Bloggen/bin/Debug/netcoreapp3.1/Bloggen.pdb
+/Users/leogast/Projects/Bloggen/Bloggen/obj/Debug/netcoreapp3.1/Bloggen.csproj.AssemblyReference.cache
+/Users/leogast/Projects/Bloggen/Bloggen/obj/Debug/netcoreapp3.1/Bloggen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leogast/Projects/Bloggen/Bloggen/obj/Debug/netcoreapp3.1/Bloggen.AssemblyInfoInputs.cache
+/Users/leogast/Projects/Bloggen/Bloggen/obj/Debug/netcoreapp3.1/Bloggen.AssemblyInfo.cs
+/Users/leogast/Projects/Bloggen/Bloggen/obj/Debug/netcoreapp3.1/Bloggen.csproj.CoreCompileInputs.cache
+/Users/leogast/Projects/Bloggen/Bloggen/obj/Debug/netcoreapp3.1/Bloggen.dll
+/Users/leogast/Projects/Bloggen/Bloggen/obj/Debug/netcoreapp3.1/Bloggen.pdb
+/Users/leogast/Projects/Bloggen/Bloggen/obj/Debug/netcoreapp3.1/Bloggen.genruntimeconfig.cache
+/Users/LeoGast/VS Projects/Bloggen/Bloggen/bin/Debug/netcoreapp3.1/Bloggen
+/Users/LeoGast/VS Projects/Bloggen/Bloggen/bin/Debug/netcoreapp3.1/Bloggen.deps.json
+/Users/LeoGast/VS Projects/Bloggen/Bloggen/bin/Debug/netcoreapp3.1/Bloggen.runtimeconfig.json
+/Users/LeoGast/VS Projects/Bloggen/Bloggen/bin/Debug/netcoreapp3.1/Bloggen.runtimeconfig.dev.json
+/Users/LeoGast/VS Projects/Bloggen/Bloggen/bin/Debug/netcoreapp3.1/Bloggen.dll
+/Users/LeoGast/VS Projects/Bloggen/Bloggen/bin/Debug/netcoreapp3.1/Bloggen.pdb
+/Users/LeoGast/VS Projects/Bloggen/Bloggen/obj/Debug/netcoreapp3.1/Bloggen.csproj.AssemblyReference.cache
+/Users/LeoGast/VS Projects/Bloggen/Bloggen/obj/Debug/netcoreapp3.1/Bloggen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/LeoGast/VS Projects/Bloggen/Bloggen/obj/Debug/netcoreapp3.1/Bloggen.AssemblyInfoInputs.cache
+/Users/LeoGast/VS Projects/Bloggen/Bloggen/obj/Debug/netcoreapp3.1/Bloggen.AssemblyInfo.cs
+/Users/LeoGast/VS Projects/Bloggen/Bloggen/obj/Debug/netcoreapp3.1/Bloggen.csproj.CoreCompileInputs.cache
+/Users/LeoGast/VS Projects/Bloggen/Bloggen/obj/Debug/netcoreapp3.1/Bloggen.dll
+/Users/LeoGast/VS Projects/Bloggen/Bloggen/obj/Debug/netcoreapp3.1/Bloggen.pdb
+/Users/LeoGast/VS Projects/Bloggen/Bloggen/obj/Debug/netcoreapp3.1/Bloggen.genruntimeconfig.cache
