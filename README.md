@@ -1,4 +1,5 @@
-# Bloggen - Programmering 1 (C#) slutprojekt
+# Bloggen - C#
+Programming 1 (C#) Final Project
 
 Jag planerade uppgiften med aktivitetsdiagrammet och pseudokod. När jag började att skriva programmet ansåg jag att det var många fler detaljer som behövde inkluderas för att göra programmet mer användbart (snyggare) för både användaren och för de som läser min kod. När jag gjorde aktivitetsdiagram och pseudokod kändes det som jag var redo men när jag började med själva kodningen blev det mer och mer komplicerat.
 
