@@ -16,5 +16,3 @@ Jag har testat programmet med en riktig användare och jag gjorde några förbä
     > ändring datumvisning till svenskt format;
     > förtydligande av några meddelanden som presenteras till användaren.
     > inkluderade en Thread.Sleep(3000) metod så att programmet stängas av efter 3 sekunder.
-
-leogast
